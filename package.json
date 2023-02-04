@@ -1,0 +1,22 @@
+{
+  "name": "cse341-w02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/squeaker2000/cse341-W02.git"
+  },
+  "author": "Elizabeth Orchard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/squeaker2000/cse341-W02/issues"
+  },
+  "homepage": "https://github.com/squeaker2000/cse341-W02#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
