@@ -19,5 +19,8 @@
   "homepage": "https://github.com/squeaker2000/cse341-W02#readme",
   "dependencies": {
     "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
   }
 }
